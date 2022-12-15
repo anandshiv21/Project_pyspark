@@ -1,0 +1,14 @@
+ {
+"persons":"/user/itv003757/case_study/Primary_Person_use.csv",
+"units":"/user/itv003757/case_study/Units_use.csv",
+"charges":"/user/itv003757/case_study/Charges_use.csv",
+"damages":"/user/itv003757/case_study/Damages_use.csv",
+"analysis1":"case_study/analysis1/",
+"analysis2":"case_study/analysis2/",
+"analysis3":"case_study/analysis3/",
+"analysis4":"case_study/analysis4/",
+"analysis5":"case_study/analysis5/",
+"analysis6":"case_study/analysis6/",
+"analysis7":"case_study/analysis7/",
+"analysis8":"case_study/analysis8/"
+}
